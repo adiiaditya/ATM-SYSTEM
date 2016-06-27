@@ -1,4 +1,6 @@
 # ATM-SYSTEM
+This project was created as a part of coursework at Illinois Institute of Technology at Chicago.
+
 
 TO RUN IN COMMAND PROMPT/ TERMINAL ON MAC
 =============================================
